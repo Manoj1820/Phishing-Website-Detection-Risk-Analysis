@@ -32,3 +32,16 @@ The Power BI dashboard is organized into multiple analytical sections covering:
 
 ## Project Objective
 To transform cybersecurity data into an interactive Business Intelligence dashboard that helps identify phishing patterns, understand security risks, and support cybersecurity investigation.
+## Dashboard Screenshots
+
+### 1. Overview Dashboard
+![Overview Dashboard](screenshots/dashboard-overview.png)
+
+### 2. Risk & Indicators
+![Risk & Indicators](screenshots/risk-indicators.png)
+
+### 3. Security Weaknesses & Attack Methods
+![Security Weaknesses](screenshots/security-weaknesses.png)
+
+### 4. Investigation & Detection
+![Investigation & Detection](screenshots/investigation-detection.png)
